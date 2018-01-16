@@ -3,3 +3,5 @@
 
 * [结巴分词](https://github.com/fxsjy/jieba)
 * 词云
+
+* [ A collection of APIs](https://github.com/TonnyL/Awesome_APIs)
