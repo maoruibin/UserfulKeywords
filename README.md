@@ -6,5 +6,7 @@
 * 词云
 
 * [ A collection of APIs](https://github.com/TonnyL/Awesome_APIs)
+* Chrome Custom Tabs
 
 * 天眼查
+
