@@ -8,5 +8,7 @@
 * [ A collection of APIs](https://github.com/TonnyL/Awesome_APIs)
 * Chrome Custom Tabs
 
+* LeanCloud
+
 * 天眼查
 
