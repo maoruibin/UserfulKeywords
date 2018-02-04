@@ -16,4 +16,5 @@
 * typora mac markdown  编辑工具
 
 * [Android 饼图](https://github.com/razerdp/AnimatedPieView)
+* SlidingPaneLayout 手势返回 [hanhailong/SwipeBackSample: 高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
 
