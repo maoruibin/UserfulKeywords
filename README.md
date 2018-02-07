@@ -18,3 +18,5 @@
 * [Android 饼图](https://github.com/razerdp/AnimatedPieView)
 * SlidingPaneLayout 手势返回 [hanhailong/SwipeBackSample: 高仿微信手势滑动返回](https://github.com/hanhailong/SwipeBackSample)
 
+* [Topic: kanban](https://github.com/topics/kanban) 看板功能
+* [Topic: scrum](https://github.com/topics/scrum) 敏捷开发工具
