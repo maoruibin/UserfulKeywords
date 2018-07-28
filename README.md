@@ -14,6 +14,7 @@
 
 * Git Hook
 * Vysor
+* Scratch 少儿编程
 
 * 天眼查
 * typora mac markdown  编辑工具
